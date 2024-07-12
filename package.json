@@ -1,0 +1,12 @@
+{
+  "name": "tasks",
+  "version": "1.0.0",
+  "description": "Aplicativo do desafio de fundamentos de node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Eduardo Santana",
+  "license": "ISC"
+}
